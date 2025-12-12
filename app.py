@@ -53,9 +53,7 @@ except ImportError:
                 # Mapeamento das abas (do seu data_loaders.py)
                 sheets = {
                     'orcamento_geral': 'ORCAMENTO_GERAL',
-                    'planejamento_aquisicoes': 'PLANEJAMENTO_AQUISICOES',
-                    'planejamento_servicos_existente': 'PLANEJAMENTO_SERVICOS_EXISTENTE',
-                    'planejamento_novos_servicos': 'PLANEJAMENTO_NOVOS_SERVICOS',
+                    'planejamento_aquisicoes': 'PLANEJAMENTO_AQUISICOES',                    
                     'ordens_de_compra': 'ORDENS_DE_COMPRA',
                     'nf_de_servico': 'NF_DE_SERVICO',
                     'nf_de_aquisicao': 'NF_DE_AQUISICAO',
